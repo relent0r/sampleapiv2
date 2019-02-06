@@ -1,0 +1,17 @@
+c:\sdks\Revera.Core.Common\Website.Containerpoc\bin\Release\netcoreapp2.2\Website.Containerpoc.deps.json
+c:\sdks\Revera.Core.Common\Website.Containerpoc\bin\Release\netcoreapp2.2\Website.Containerpoc.runtimeconfig.json
+c:\sdks\Revera.Core.Common\Website.Containerpoc\bin\Release\netcoreapp2.2\Website.Containerpoc.runtimeconfig.dev.json
+c:\sdks\Revera.Core.Common\Website.Containerpoc\bin\Release\netcoreapp2.2\Website.Containerpoc.dll
+c:\sdks\Revera.Core.Common\Website.Containerpoc\bin\Release\netcoreapp2.2\Website.Containerpoc.pdb
+c:\sdks\Revera.Core.Common\Website.Containerpoc\bin\Release\netcoreapp2.2\Revera.Stnd.Common.HashAlgorithm.dll
+c:\sdks\Revera.Core.Common\Website.Containerpoc\bin\Release\netcoreapp2.2\Revera.Stnd.Common.HashAlgorithm.pdb
+c:\sdks\Revera.Core.Common\Website.Containerpoc\obj\Release\netcoreapp2.2\Website.Containerpoc.csprojAssemblyReference.cache
+c:\sdks\Revera.Core.Common\Website.Containerpoc\obj\Release\netcoreapp2.2\Website.Containerpoc.csproj.CoreCompileInputs.cache
+c:\sdks\Revera.Core.Common\Website.Containerpoc\obj\Release\netcoreapp2.2\Website.Containerpoc.RazorAssemblyInfo.cache
+c:\sdks\Revera.Core.Common\Website.Containerpoc\obj\Release\netcoreapp2.2\Website.Containerpoc.RazorAssemblyInfo.cs
+c:\sdks\Revera.Core.Common\Website.Containerpoc\obj\Release\netcoreapp2.2\Website.Containerpoc.AssemblyInfoInputs.cache
+c:\sdks\Revera.Core.Common\Website.Containerpoc\obj\Release\netcoreapp2.2\Website.Containerpoc.AssemblyInfo.cs
+c:\sdks\Revera.Core.Common\Website.Containerpoc\obj\Release\netcoreapp2.2\Website.Containerpoc.RazorTargetAssemblyInfo.cache
+c:\sdks\Revera.Core.Common\Website.Containerpoc\obj\Release\netcoreapp2.2\Website.Containerpoc.csproj.CopyComplete
+c:\sdks\Revera.Core.Common\Website.Containerpoc\obj\Release\netcoreapp2.2\Website.Containerpoc.dll
+c:\sdks\Revera.Core.Common\Website.Containerpoc\obj\Release\netcoreapp2.2\Website.Containerpoc.pdb

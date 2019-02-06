@@ -1,0 +1,9 @@
+c:\sdks\Revera.Core.Common\Revera.Stnd.Common.HashAlgorithm\bin\Release\netstandard2.0\Revera.Stnd.Common.HashAlgorithm.deps.json
+c:\sdks\Revera.Core.Common\Revera.Stnd.Common.HashAlgorithm\bin\Release\netstandard2.0\Revera.Stnd.Common.HashAlgorithm.dll
+c:\sdks\Revera.Core.Common\Revera.Stnd.Common.HashAlgorithm\bin\Release\netstandard2.0\Revera.Stnd.Common.HashAlgorithm.pdb
+c:\sdks\Revera.Core.Common\Revera.Stnd.Common.HashAlgorithm\obj\Release\netstandard2.0\Revera.Stnd.Common.HashAlgorithm.csprojAssemblyReference.cache
+c:\sdks\Revera.Core.Common\Revera.Stnd.Common.HashAlgorithm\obj\Release\netstandard2.0\Revera.Stnd.Common.HashAlgorithm.csproj.CoreCompileInputs.cache
+c:\sdks\Revera.Core.Common\Revera.Stnd.Common.HashAlgorithm\obj\Release\netstandard2.0\Revera.Stnd.Common.HashAlgorithm.AssemblyInfoInputs.cache
+c:\sdks\Revera.Core.Common\Revera.Stnd.Common.HashAlgorithm\obj\Release\netstandard2.0\Revera.Stnd.Common.HashAlgorithm.AssemblyInfo.cs
+c:\sdks\Revera.Core.Common\Revera.Stnd.Common.HashAlgorithm\obj\Release\netstandard2.0\Revera.Stnd.Common.HashAlgorithm.dll
+c:\sdks\Revera.Core.Common\Revera.Stnd.Common.HashAlgorithm\obj\Release\netstandard2.0\Revera.Stnd.Common.HashAlgorithm.pdb
